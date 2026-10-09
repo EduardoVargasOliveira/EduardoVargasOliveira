@@ -1,5 +1,5 @@
 # EduardoVargasOliveira
-<img src="https://raw.githubusercontent.com/EduardoVargasOliveira/EduardoVargasOliveira/blob/main/mainPhoto.jpg" alt="FullMetal Image" width="300">
+<img src="mainPhoto.jpg" alt="FullMetal Image" width="300">
 
 <h3 align="center">㉿ Ganbatte ㉿</h3>
 
