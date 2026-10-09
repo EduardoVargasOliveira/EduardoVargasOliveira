@@ -1,5 +1,5 @@
 # EduardoVargasOliveira
-<img src="mainPhoto.jpg" alt="FullMetal Image" width="500">
+<img src="mainPhoto.jpg" alt="FullMetal Image" width="800">
 
 <h3 align="center">㉿ Ganbatte ㉿</h3>
 
